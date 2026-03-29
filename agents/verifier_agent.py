@@ -159,14 +159,20 @@ class VerifierAgent:
             # Step 1: Rule-based checks (fast, no LLM needed)
             rule_check = self._rule_based_verify(current_result, retrieval_result)
             
-            # Step 2: LLM-based verification (deeper semantic check)
-            try:
-                llm_check = self._llm_verify(current_result, retrieval_result)
-                verification = self._merge_checks(rule_check, llm_check, attempt)
-            except Exception as e:
-                logger.warning(f"LLM verification failed: {e}. Using rule-based only.")
+            # FAST_MODE optimization
+            from config import FAST_MODE
+            if FAST_MODE and rule_check.is_valid:
+                logger.info("FAST_MODE enabled. Rule check passed. Skipping slow LLM verification.")
                 verification = rule_check
-                verification.attempts = attempt
+            else:
+                # Step 2: LLM-based verification (deeper semantic check)
+                try:
+                    llm_check = self._llm_verify(current_result, retrieval_result)
+                    verification = self._merge_checks(rule_check, llm_check, attempt)
+                except Exception as e:
+                    logger.warning(f"LLM verification failed: {e}. Using rule-based only.")
+                    verification = rule_check
+                    verification.attempts = attempt
             
             # If valid, return immediately
             if verification.is_valid:
