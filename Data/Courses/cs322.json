@@ -1,0 +1,33 @@
+{
+  "course": "CS322",
+  "title": "Deep Learning",
+  "credits": 3,
+  "prerequisites": "CS305 AND MATH220",
+  "corequisites": "None",
+  "terms": [
+    "Fall"
+  ],
+  "description": "In-depth study of deep learning covering neural network architectures, training techniques, and applications. Topics include feedforward networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative adversarial networks (GANs), autoencoders, transfer learning, and attention mechanisms. Students implement deep learning models using PyTorch and apply them to computer vision, natural language processing, and generative modeling tasks. Both CS305 (ML foundations) and MATH220 (linear algebra for tensor operations and backpropagation) are required prerequisites.",
+  "topics": [
+    "Feedforward neural networks and backpropagation",
+    "Optimization: SGD, Adam, learning rate schedules",
+    "Regularization: dropout, batch normalization",
+    "Convolutional Neural Networks (CNNs)",
+    "Image classification and object detection",
+    "Recurrent Neural Networks and LSTMs",
+    "Sequence-to-sequence models",
+    "Attention mechanisms and Transformers",
+    "Generative Adversarial Networks (GANs)",
+    "Autoencoders and variational autoencoders",
+    "Transfer learning and fine-tuning",
+    "Deep learning with PyTorch"
+  ],
+  "outcomes": [
+    "Design and train deep neural network architectures",
+    "Implement CNNs for computer vision tasks",
+    "Build sequence models for NLP applications",
+    "Apply transfer learning to new domains",
+    "Implement generative models (GANs, VAEs)",
+    "Use PyTorch for deep learning research and development"
+  ]
+}

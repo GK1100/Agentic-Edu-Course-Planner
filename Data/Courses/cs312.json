@@ -1,0 +1,33 @@
+{
+  "course": "CS312",
+  "title": "Computer Graphics",
+  "credits": 3,
+  "prerequisites": "CS201 AND MATH220",
+  "corequisites": "None",
+  "terms": [
+    "Spring"
+  ],
+  "description": "Introduction to computer graphics covering 2D and 3D rendering, geometric transformations, lighting models, and GPU programming. Students study the graphics pipeline, coordinate transformations, rasterization, texture mapping, ray tracing, and shader programming using OpenGL/WebGL. MATH220 (Linear Algebra) is essential for understanding geometric transformations, projections, and lighting computations. CS201 provides the data structures knowledge (trees, spatial data structures) needed for scene management and rendering optimization.",
+  "topics": [
+    "Graphics pipeline overview",
+    "2D and 3D geometric transformations",
+    "Viewing and projection",
+    "Rasterization and clipping",
+    "Lighting models: Phong, Blinn-Phong",
+    "Texture mapping",
+    "Shadow algorithms",
+    "Ray tracing",
+    "Shader programming (GLSL)",
+    "Scene graphs and spatial data structures",
+    "Animation basics",
+    "GPU architecture overview"
+  ],
+  "outcomes": [
+    "Implement the graphics rendering pipeline",
+    "Apply geometric transformations using matrices",
+    "Write vertex and fragment shaders",
+    "Implement lighting models and texture mapping",
+    "Build a basic ray tracer",
+    "Understand GPU architecture and parallel rendering"
+  ]
+}

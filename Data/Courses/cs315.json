@@ -1,0 +1,33 @@
+{
+  "course": "CS315",
+  "title": "Information Retrieval",
+  "credits": 3,
+  "prerequisites": "CS301",
+  "corequisites": "None",
+  "terms": [
+    "Fall"
+  ],
+  "description": "Study of information retrieval systems covering indexing, retrieval models, evaluation, and modern search engine architecture. Topics include inverted indexes, TF-IDF, BM25, vector space model, query processing, relevance feedback, web crawling, link analysis (PageRank), and introduction to learning-to-rank. CS301 is required for algorithm design and analysis skills essential for implementing efficient retrieval systems and understanding complexity of ranking algorithms.",
+  "topics": [
+    "Inverted index construction",
+    "Boolean retrieval model",
+    "TF-IDF weighting",
+    "Vector space model",
+    "BM25 and probabilistic retrieval",
+    "Query processing and optimization",
+    "Relevance feedback and query expansion",
+    "Web crawling and indexing",
+    "Link analysis: PageRank, HITS",
+    "Evaluation metrics: precision, recall, MAP, NDCG",
+    "Learning to rank",
+    "Semantic search and embeddings"
+  ],
+  "outcomes": [
+    "Build inverted indexes for text collections",
+    "Implement TF-IDF and BM25 retrieval models",
+    "Evaluate retrieval systems using standard metrics",
+    "Implement web crawling and link analysis algorithms",
+    "Apply learning-to-rank techniques",
+    "Design and evaluate search engine components"
+  ]
+}

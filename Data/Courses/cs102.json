@@ -1,0 +1,34 @@
+{
+  "course": "CS102",
+  "title": "Object-Oriented Programming",
+  "credits": 4,
+  "prerequisites": "Completion of CS101 with a minimum grade of C",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "Building on the foundation established in CS101, this course provides comprehensive coverage of object-oriented programming (OOP) principles using Java. Students learn to design and implement programs using classes, objects, inheritance, polymorphism, encapsulation, and abstraction. The course covers advanced data structures including linked lists, stacks, and queues, as well as introduction to generic programming and exception handling. Significant emphasis is placed on software design principles, UML diagrams, and unit testing with JUnit. Students complete a substantial individual project and several collaborative programming assignments. The course also introduces students to integrated development environments (IDEs) and professional software development workflows. Students must have earned at least a C in CS101 to enroll; students with a D or below must retake CS101 first.",
+  "topics": [
+    "Classes, objects, and constructors",
+    "Inheritance and method overriding",
+    "Polymorphism and dynamic binding",
+    "Abstract classes and interfaces",
+    "Encapsulation and access modifiers",
+    "Exception handling and custom exceptions",
+    "Generic types and collections framework",
+    "Linked lists, stacks, and queues",
+    "UML class diagrams",
+    "Unit testing with JUnit",
+    "File I/O and serialization",
+    "Introduction to GUI programming"
+  ],
+  "outcomes": [
+    "Design object-oriented solutions using UML class diagrams",
+    "Implement inheritance hierarchies with polymorphism",
+    "Write robust code with proper exception handling",
+    "Create and use generic classes and methods",
+    "Implement fundamental linked data structures",
+    "Write comprehensive unit tests for Java programs"
+  ]
+}

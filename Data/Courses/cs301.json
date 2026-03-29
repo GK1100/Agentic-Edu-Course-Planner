@@ -1,0 +1,34 @@
+{
+  "course": "CS301",
+  "title": "Design and Analysis of Algorithms",
+  "credits": 3,
+  "prerequisites": "CS201 AND CS202",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "Advanced study of algorithm design paradigms and complexity analysis. This course extends the algorithmic foundations from CS201 to cover divide-and-conquer, greedy algorithms, dynamic programming, network flow, and introduction to NP-completeness. Students learn to prove algorithm correctness, analyze worst-case and average-case complexity, and select appropriate algorithmic strategies for different problem types. The course includes significant theoretical content including amortized analysis, randomized algorithms, and computational complexity classes. Both CS201 (for data structures proficiency) and CS202 (for proof techniques and mathematical maturity) are required prerequisites. Students will complete algorithm design projects and written proof assignments throughout the semester.",
+  "topics": [
+    "Divide and conquer: master theorem, Strassen's algorithm",
+    "Greedy algorithms: activity selection, Huffman coding",
+    "Dynamic programming: knapsack, sequence alignment, shortest paths",
+    "Graph algorithms: MST (Prim, Kruskal), network flow",
+    "Amortized analysis",
+    "Randomized algorithms",
+    "NP-completeness and reductions",
+    "Approximation algorithms",
+    "String matching algorithms",
+    "Computational geometry basics",
+    "Lower bounds and decision trees",
+    "Advanced sorting and selection"
+  ],
+  "outcomes": [
+    "Design algorithms using divide-and-conquer, greedy, and DP paradigms",
+    "Prove algorithm correctness using loop invariants and induction",
+    "Analyze algorithm complexity using recurrences and amortized analysis",
+    "Identify NP-complete problems and apply reductions",
+    "Apply network flow algorithms to optimization problems",
+    "Select appropriate algorithmic paradigms for given problem types"
+  ]
+}

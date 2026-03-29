@@ -1,0 +1,33 @@
+{
+  "course": "CS316",
+  "title": "Compiler Design",
+  "credits": 3,
+  "prerequisites": "CS301 AND CS202",
+  "corequisites": "None",
+  "terms": [
+    "Fall"
+  ],
+  "description": "Study of compiler construction covering lexical analysis, parsing, semantic analysis, intermediate code generation, optimization, and code generation. Students implement a compiler for a simple programming language through a series of progressive assignments. Topics include regular expressions and finite automata, context-free grammars, LL and LR parsing, type checking, intermediate representations, and basic optimization techniques. Both CS301 (for algorithm design) and CS202 (for formal languages and automata theory foundations) are required.",
+  "topics": [
+    "Lexical analysis and regular expressions",
+    "Finite automata: DFA and NFA",
+    "Context-free grammars",
+    "Parsing: top-down (LL) and bottom-up (LR)",
+    "Abstract syntax trees",
+    "Semantic analysis and type checking",
+    "Symbol tables",
+    "Intermediate code generation",
+    "Code optimization techniques",
+    "Register allocation",
+    "Code generation",
+    "Runtime environments"
+  ],
+  "outcomes": [
+    "Implement a lexical analyzer using regular expressions",
+    "Build parsers using LL and LR techniques",
+    "Construct abstract syntax trees from source code",
+    "Perform type checking and semantic analysis",
+    "Generate intermediate code representations",
+    "Apply basic code optimization techniques"
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "prerequisite_policy",
+    "title": "Prerequisite Enforcement Policy",
+    "content": "All course prerequisites are strictly enforced at the time of registration. Students must have completed prerequisite courses with a minimum grade of C (2.0) unless a higher grade is specified in the individual course description. Prerequisites marked as 'concurrent' or 'co-requisite' may be taken in the same semester as the course requiring them but may not be taken after. Students who have not met prerequisite requirements will be administratively dropped from the course. In exceptional circumstances, students may petition the department chair for a prerequisite waiver by submitting a Prerequisite Override Request Form along with supporting documentation demonstrating equivalent preparation. Prerequisite waivers are granted at the sole discretion of the department and are not guaranteed. Transfer equivalencies for prerequisite courses must be approved by the Registrar's Office prior to enrollment. Students are responsible for ensuring they have met all prerequisites before registering for courses."
+  },
+  {
+    "type": "grading_policy",
+    "title": "Grading Scale and Academic Standards",
+    "content": "The university uses the following grading scale: A (4.0), A- (3.7), B+ (3.3), B (3.0), B- (2.7), C+ (2.3), C (2.0), C- (1.7), D+ (1.3), D (1.0), F (0.0). A minimum grade of C (2.0) is required for a course to satisfy prerequisite requirements unless otherwise specified. Courses completed with a grade below C do not satisfy prerequisites and must be retaken. The Computer Science department requires a minimum GPA of 2.5 in CS courses for students to remain in good standing in the major. Students whose CS GPA falls below 2.5 for two consecutive semesters will be placed on departmental probation and must meet with their academic advisor to create an improvement plan."
+  },
+  {
+    "type": "course_repeat_policy",
+    "title": "Course Repeat Policy",
+    "content": "Students may repeat a course a maximum of two times (three total attempts). When a course is repeated, the highest grade earned will be used in GPA calculation, but all attempts remain on the transcript. After two unsuccessful attempts (grade below C), students must obtain permission from the department chair before registering for a third attempt. Students on their third attempt may be required to complete additional support such as tutoring or supplemental instruction. Repeated courses count toward attempted credit hours for financial aid satisfactory academic progress calculations."
+  },
+  {
+    "type": "credit_load_policy",
+    "title": "Credit Load and Registration Policy",
+    "content": "The standard credit load is 15 credits per semester. Students may register for a maximum of 18 credits per semester without special permission. Students wishing to exceed 18 credits must petition the Academic Standards Committee and must have a minimum cumulative GPA of 3.5. The minimum credit load for full-time status is 12 credits per semester. Students registered for fewer than 12 credits are considered part-time. Summer session credit limits are 7 credits per summer session and 12 credits for the entire summer. Co-requisite courses must be registered for simultaneously; students may not drop a co-requisite course without also dropping the course that requires it."
+  },
+  {
+    "type": "transfer_credit_policy",
+    "title": "Transfer Credit and Course Equivalency Policy",
+    "content": "Transfer credits from accredited institutions are evaluated by the Registrar's Office on a course-by-course basis. To receive transfer credit for a CS course, the transfer course must cover at least 75% of the topics in the equivalent university course and must have been completed with a grade of C or higher. Transfer credits are recorded as 'TR' on the transcript and are not included in GPA calculations. A maximum of 60 credits may be transferred toward the 120-credit degree requirement. For the BSc Computer Science program, at least 50% of CS course credits must be completed at the university. Students must submit official transcripts and course syllabi for transfer evaluation at least 30 days before the start of the semester."
+  },
+  {
+    "type": "academic_integrity_policy",
+    "title": "Academic Integrity Policy for CS Courses",
+    "content": "The Computer Science department takes academic integrity seriously. All submitted work must be the student's own unless explicitly designated as a group assignment. Collaboration on individual assignments is limited to discussion of concepts; sharing of code, pseudocode, or detailed solutions is prohibited. Use of AI coding assistants (e.g., GitHub Copilot, ChatGPT) is permitted only when explicitly allowed by the instructor in the course syllabus. First violations result in a zero on the assignment and a formal warning. Second violations result in a failing grade for the course. All violations are reported to the Office of Academic Integrity."
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "course": "CS303",
+  "title": "Operating Systems",
+  "credits": 4,
+  "prerequisites": "Students must have completed both CS201 and CS202 before enrolling",
+  "corequisites": "CS303L (Operating Systems Lab)",
+  "terms": [
+    "Fall"
+  ],
+  "description": "Study of operating system principles including process management, memory management, file systems, and I/O management. Students learn about process scheduling algorithms, inter-process communication (IPC), synchronization primitives (mutexes, semaphores, monitors), deadlock detection and prevention, virtual memory with paging and segmentation, and file system implementations. The course includes substantial systems programming assignments in C, requiring students to implement simplified versions of OS components. Students must have completed both CS201 (for data structures used in OS internals) and CS202 (for mathematical foundations of scheduling analysis). A concurrent co-requisite lab section CS303L provides hands-on experience with Linux kernel programming. Note: This course is typically offered only in the Fall semester.",
+  "topics": [
+    "Process management and scheduling algorithms",
+    "Threads and concurrent programming",
+    "Synchronization: mutexes, semaphores, condition variables",
+    "Deadlock: detection, prevention, avoidance",
+    "Memory management: paging, segmentation",
+    "Virtual memory and page replacement algorithms",
+    "File systems: FAT, ext4, journaling",
+    "I/O management and device drivers",
+    "Inter-process communication",
+    "Protection and security basics",
+    "Virtualization concepts",
+    "Case study: Linux kernel"
+  ],
+  "outcomes": [
+    "Explain and compare process scheduling algorithms",
+    "Implement concurrent programs with proper synchronization",
+    "Analyze and prevent deadlock situations",
+    "Explain virtual memory mechanisms and page replacement policies",
+    "Understand file system organization and implementation",
+    "Write systems-level programs in C using POSIX APIs"
+  ]
+}

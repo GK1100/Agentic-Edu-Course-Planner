@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://catalog.university.edu/cs/courses/",
+    "date_accessed": "2026-03-15",
+    "description": "Computer Science course catalog pages containing all CS course descriptions, prerequisites, credit hours, and learning outcomes"
+  },
+  {
+    "url": "https://catalog.university.edu/math/courses/",
+    "date_accessed": "2026-03-15",
+    "description": "Mathematics department course pages for MATH120, MATH220, and MATH230 required by the CS program"
+  },
+  {
+    "url": "https://catalog.university.edu/cs/bsc-requirements/",
+    "date_accessed": "2026-03-15",
+    "description": "BSc Computer Science degree requirements including core courses, electives, math requirements, credit totals, and GPA policies"
+  },
+  {
+    "url": "https://catalog.university.edu/cs/ai-specialization/",
+    "date_accessed": "2026-03-15",
+    "description": "AI Specialization Certificate requirements, eligible courses, and minimum grade requirements"
+  },
+  {
+    "url": "https://catalog.university.edu/cs/minor/",
+    "date_accessed": "2026-03-15",
+    "description": "Computer Science Minor requirements for non-CS majors"
+  },
+  {
+    "url": "https://catalog.university.edu/policies/prerequisites/",
+    "date_accessed": "2026-03-16",
+    "description": "University prerequisite enforcement policy including waiver process and transfer equivalency rules"
+  },
+  {
+    "url": "https://catalog.university.edu/policies/grading/",
+    "date_accessed": "2026-03-16",
+    "description": "Grading scale, minimum grade requirements, and academic standing policies"
+  },
+  {
+    "url": "https://catalog.university.edu/policies/course-repeat/",
+    "date_accessed": "2026-03-16",
+    "description": "Course repeat policy including maximum attempts and GPA calculation rules"
+  },
+  {
+    "url": "https://catalog.university.edu/policies/credit-load/",
+    "date_accessed": "2026-03-16",
+    "description": "Credit load limits, full-time status requirements, and co-requisite registration rules"
+  },
+  {
+    "url": "https://catalog.university.edu/policies/transfer/",
+    "date_accessed": "2026-03-16",
+    "description": "Transfer credit evaluation process and limits for CS degree"
+  },
+  {
+    "url": "https://catalog.university.edu/policies/academic-integrity/",
+    "date_accessed": "2026-03-16",
+    "description": "Academic integrity policy specific to CS courses including AI tool usage policy"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "course": "CS320",
+  "title": "Advanced AI Systems",
+  "credits": 3,
+  "prerequisites": "CS306",
+  "corequisites": "None",
+  "terms": [
+    "Fall"
+  ],
+  "description": "Advanced topics in artificial intelligence covering multi-agent systems, automated planning, knowledge graphs, ethical AI, and large language models. Students study multi-agent coordination, STRIPS-style planning, ontologies and semantic web, fairness and bias in AI systems, and the architecture of modern foundation models. Projects involve building complex AI systems that integrate multiple techniques. CS306 (AI) is the prerequisite for foundational AI knowledge including search, reasoning, and probabilistic methods.",
+  "topics": [
+    "Multi-agent systems and coordination",
+    "Automated planning: STRIPS, PDDL",
+    "Knowledge graphs and ontologies",
+    "Semantic web technologies",
+    "Ethical AI and fairness",
+    "Bias detection and mitigation",
+    "Large language models architecture",
+    "Prompt engineering and retrieval-augmented generation",
+    "AI safety and alignment",
+    "Explainable AI (XAI)",
+    "AI governance and regulation",
+    "Capstone AI project"
+  ],
+  "outcomes": [
+    "Design multi-agent systems with coordination protocols",
+    "Implement automated planning systems",
+    "Build and query knowledge graphs",
+    "Evaluate AI systems for fairness and bias",
+    "Apply prompt engineering techniques with LLMs",
+    "Analyze AI safety and ethical implications"
+  ]
+}

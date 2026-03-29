@@ -1,0 +1,33 @@
+{
+  "course": "CS317",
+  "title": "Embedded Systems",
+  "credits": 3,
+  "prerequisites": "CS201",
+  "corequisites": "None",
+  "terms": [
+    "Spring"
+  ],
+  "description": "Introduction to embedded systems design covering microcontroller programming, real-time systems, hardware-software interfaces, and IoT applications. Students program ARM-based microcontrollers using C and assembly, interface with sensors and actuators, and learn about real-time operating systems (RTOS). Lab work involves hands-on projects with development boards. CS201 is required for data structures knowledge and C programming proficiency needed for systems-level embedded programming.",
+  "topics": [
+    "Microcontroller architecture (ARM)",
+    "Embedded C programming",
+    "Digital I/O and GPIO",
+    "Interrupts and interrupt handling",
+    "Timers and PWM",
+    "Serial communication: UART, SPI, I2C",
+    "Analog-to-digital conversion",
+    "Real-time operating systems (RTOS)",
+    "Sensor interfaces",
+    "Power management",
+    "IoT protocols: MQTT, CoAP",
+    "Embedded system testing"
+  ],
+  "outcomes": [
+    "Program ARM microcontrollers in C",
+    "Interface with sensors and actuators",
+    "Implement interrupt-driven I/O",
+    "Use serial communication protocols",
+    "Design real-time embedded applications",
+    "Build IoT prototypes with sensor networks"
+  ]
+}

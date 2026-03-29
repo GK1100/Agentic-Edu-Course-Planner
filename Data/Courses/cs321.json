@@ -1,0 +1,33 @@
+{
+  "course": "CS321",
+  "title": "Reinforcement Learning",
+  "credits": 3,
+  "prerequisites": "CS305",
+  "corequisites": "None",
+  "terms": [
+    "Spring"
+  ],
+  "description": "Study of reinforcement learning theory and algorithms covering tabular methods, function approximation, policy gradient methods, and deep reinforcement learning. Topics include Markov Decision Processes, value iteration, policy iteration, Monte Carlo methods, temporal difference learning (Q-learning, SARSA), deep Q-networks (DQN), policy gradient (REINFORCE, PPO), and actor-critic methods. Students implement RL agents for games and control tasks. CS305 (Machine Learning) is the prerequisite providing foundations in neural networks, optimization, and model evaluation needed for deep RL methods.",
+  "topics": [
+    "Markov Decision Processes (MDPs)",
+    "Value iteration and policy iteration",
+    "Monte Carlo methods",
+    "Temporal difference learning",
+    "Q-learning and SARSA",
+    "Function approximation",
+    "Deep Q-Networks (DQN)",
+    "Policy gradient methods: REINFORCE",
+    "Actor-critic methods: A2C, PPO",
+    "Model-based reinforcement learning",
+    "Multi-agent reinforcement learning",
+    "Applications: games, robotics, control"
+  ],
+  "outcomes": [
+    "Formulate sequential decision problems as MDPs",
+    "Implement tabular RL algorithms (Q-learning, SARSA)",
+    "Train deep reinforcement learning agents",
+    "Apply policy gradient methods",
+    "Compare model-free and model-based RL approaches",
+    "Design RL solutions for real-world problems"
+  ]
+}

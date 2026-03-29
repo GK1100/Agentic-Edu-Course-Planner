@@ -1,0 +1,34 @@
+{
+  "course": "CS202",
+  "title": "Discrete Mathematics for Computer Science",
+  "credits": 3,
+  "prerequisites": "MATH120",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "This course covers the mathematical foundations essential for computer science. Topics include propositional and predicate logic, proof techniques (direct proof, contradiction, induction), set theory, relations, functions, combinatorics, probability, graph theory, and formal languages. The course emphasizes mathematical reasoning and proof writing as skills fundamental to algorithm design, database theory, cryptography, and theoretical computer science. Students learn to construct rigorous proofs and apply discrete mathematical structures to computational problems. Regular homework assignments include both written proofs and computational exercises. Prior completion of MATH120 (Calculus I) is required for the mathematical maturity needed for proof-based coursework. Students are expected to have comfort with algebraic manipulation and basic mathematical notation.",
+  "topics": [
+    "Propositional logic and truth tables",
+    "Predicate logic and quantifiers",
+    "Proof techniques: direct, contrapositive, contradiction",
+    "Mathematical induction and strong induction",
+    "Set theory and set operations",
+    "Relations: equivalence relations, partial orders",
+    "Functions: injective, surjective, bijective",
+    "Counting: permutations, combinations, pigeonhole principle",
+    "Discrete probability",
+    "Graph theory: paths, cycles, trees, planarity",
+    "Recurrence relations",
+    "Introduction to formal languages and automata"
+  ],
+  "outcomes": [
+    "Construct rigorous mathematical proofs using various techniques",
+    "Apply mathematical induction to prove statements about natural numbers",
+    "Analyze problems using combinatorial counting methods",
+    "Model computational problems using graphs and relations",
+    "Calculate probabilities for discrete random events",
+    "Solve recurrence relations arising from algorithm analysis"
+  ]
+}

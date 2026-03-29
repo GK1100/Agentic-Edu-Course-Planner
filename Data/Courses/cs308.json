@@ -1,0 +1,34 @@
+{
+  "course": "CS308",
+  "title": "Cybersecurity Fundamentals",
+  "credits": 3,
+  "prerequisites": "CS201 OR CS304",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "Introduction to cybersecurity covering threat modeling, cryptography, network security, web security, and security policy. Students study symmetric and asymmetric encryption, hash functions, digital signatures, PKI, common attack vectors (SQL injection, XSS, buffer overflow), intrusion detection, access control models, and security risk assessment. Lab exercises involve hands-on penetration testing in controlled environments, cryptographic implementations, and security auditing. Students need either CS201 (data structures for understanding security algorithm implementations) or CS304 (networking knowledge for network security topics) as a prerequisite.",
+  "topics": [
+    "Security principles: CIA triad",
+    "Threat modeling and risk assessment",
+    "Symmetric cryptography: AES, DES",
+    "Asymmetric cryptography: RSA, Diffie-Hellman",
+    "Hash functions and digital signatures",
+    "Public Key Infrastructure (PKI)",
+    "Network security: firewalls, IDS/IPS",
+    "Web security: SQL injection, XSS, CSRF",
+    "Authentication and access control",
+    "Malware analysis basics",
+    "Security auditing and penetration testing",
+    "Security policies and compliance"
+  ],
+  "outcomes": [
+    "Apply threat modeling to identify system vulnerabilities",
+    "Implement and analyze cryptographic algorithms",
+    "Identify and mitigate common web application vulnerabilities",
+    "Configure network security tools and firewalls",
+    "Perform basic security audits and penetration tests",
+    "Develop security policies for organizational compliance"
+  ]
+}

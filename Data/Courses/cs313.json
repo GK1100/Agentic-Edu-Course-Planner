@@ -1,0 +1,33 @@
+{
+  "course": "CS313",
+  "title": "Natural Language Processing",
+  "credits": 3,
+  "prerequisites": "CS305",
+  "corequisites": "None",
+  "terms": [
+    "Spring"
+  ],
+  "description": "Study of computational methods for processing and understanding human language. Covers text preprocessing, language models, word embeddings, sequence models (RNNs, LSTMs), attention mechanisms, transformers, and applications including sentiment analysis, machine translation, question answering, and text generation. Students implement NLP pipelines using Python (NLTK, spaCy, HuggingFace Transformers). CS305 (Machine Learning) is the prerequisite as NLP builds heavily on ML foundations including neural networks, optimization, and model evaluation.",
+  "topics": [
+    "Text preprocessing and tokenization",
+    "Language models: n-gram and neural",
+    "Word embeddings: Word2Vec, GloVe",
+    "Recurrent Neural Networks and LSTMs",
+    "Attention mechanisms",
+    "Transformer architecture",
+    "BERT and GPT models",
+    "Sentiment analysis",
+    "Named entity recognition",
+    "Machine translation",
+    "Question answering systems",
+    "Text generation and summarization"
+  ],
+  "outcomes": [
+    "Implement text preprocessing pipelines",
+    "Train and evaluate language models",
+    "Apply word embeddings to NLP tasks",
+    "Implement sequence models for text classification",
+    "Fine-tune pre-trained transformer models",
+    "Build end-to-end NLP applications"
+  ]
+}

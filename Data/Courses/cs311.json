@@ -1,0 +1,34 @@
+{
+  "course": "CS311",
+  "title": "Human-Computer Interaction",
+  "credits": 3,
+  "prerequisites": "CS102",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "Study of human-computer interaction principles, user interface design, usability evaluation, and user experience research. Covers design thinking, user-centered design process, prototyping (paper and digital), heuristic evaluation, usability testing, accessibility (WCAG guidelines), and interaction design patterns. Students complete a semester-long UX project including user research, iterative prototyping, and usability testing with real users. Prerequisite: CS102 provides programming skills needed for implementing interactive prototypes.",
+  "topics": [
+    "Human factors and cognitive psychology",
+    "User-centered design process",
+    "Design thinking methodology",
+    "Paper and digital prototyping",
+    "Heuristic evaluation (Nielsen's heuristics)",
+    "Usability testing methods",
+    "Accessibility and WCAG guidelines",
+    "Interaction design patterns",
+    "Mobile and responsive design",
+    "Information architecture",
+    "Visual design principles",
+    "Emerging interfaces: VR/AR, voice"
+  ],
+  "outcomes": [
+    "Apply user-centered design methodology",
+    "Conduct user research using interviews and surveys",
+    "Create paper and digital prototypes",
+    "Perform heuristic evaluation of user interfaces",
+    "Conduct usability tests and analyze results",
+    "Design accessible interfaces following WCAG guidelines"
+  ]
+}

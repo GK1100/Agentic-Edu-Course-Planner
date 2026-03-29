@@ -1,0 +1,33 @@
+{
+  "course": "CS318",
+  "title": "Blockchain and Distributed Ledger Technology",
+  "credits": 3,
+  "prerequisites": "CS201",
+  "corequisites": "None",
+  "terms": [
+    "Spring"
+  ],
+  "description": "Study of blockchain technology covering cryptographic foundations, consensus mechanisms, smart contracts, and decentralized applications. Topics include hash functions, digital signatures, Bitcoin protocol, Ethereum and smart contracts (Solidity), consensus algorithms (PoW, PoS, PBFT), decentralized finance (DeFi), and blockchain scalability solutions. CS201 prerequisite provides data structures knowledge (hash tables, trees) essential for understanding blockchain data structures (Merkle trees, hash chains).",
+  "topics": [
+    "Cryptographic hash functions",
+    "Digital signatures and PKI",
+    "Bitcoin: UTXO model, mining",
+    "Ethereum: accounts model, gas",
+    "Smart contracts with Solidity",
+    "Consensus: Proof of Work, Proof of Stake, PBFT",
+    "Merkle trees and blockchain data structures",
+    "Decentralized applications (DApps)",
+    "DeFi protocols",
+    "Token standards (ERC-20, ERC-721)",
+    "Blockchain scalability: Layer 2, sharding",
+    "Privacy on blockchain: zero-knowledge proofs"
+  ],
+  "outcomes": [
+    "Explain blockchain consensus mechanisms",
+    "Write and deploy smart contracts in Solidity",
+    "Analyze blockchain security and attack vectors",
+    "Design decentralized applications",
+    "Evaluate blockchain scalability solutions",
+    "Understand crypto-economic incentive mechanisms"
+  ]
+}

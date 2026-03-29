@@ -1,0 +1,34 @@
+{
+  "course": "MATH230",
+  "title": "Probability and Statistics",
+  "credits": 3,
+  "prerequisites": "MATH120",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "Introduction to probability theory and statistical methods with applications in computer science. Covers sample spaces, conditional probability, Bayes theorem, random variables, common distributions (binomial, Poisson, normal, exponential), expectation and variance, hypothesis testing, confidence intervals, and linear regression. Applications include algorithm analysis, machine learning foundations, network reliability, and data analysis. This course provides the statistical foundation needed for machine learning and data science coursework. Students learn to use statistical software (R or Python) for data analysis projects.",
+  "topics": [
+    "Sample spaces and events",
+    "Conditional probability and Bayes theorem",
+    "Discrete and continuous random variables",
+    "Common probability distributions",
+    "Expectation, variance, and covariance",
+    "Central Limit Theorem",
+    "Hypothesis testing",
+    "Confidence intervals",
+    "Simple and multiple linear regression",
+    "Bayesian inference basics",
+    "Monte Carlo simulation",
+    "Statistical computing with Python/R"
+  ],
+  "outcomes": [
+    "Apply probability rules to compute event probabilities",
+    "Model real-world phenomena using probability distributions",
+    "Perform hypothesis tests and construct confidence intervals",
+    "Apply Bayes theorem to update beliefs with evidence",
+    "Conduct linear regression analysis",
+    "Use statistical software for data analysis"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "course": "MATH120",
+  "title": "Calculus I",
+  "credits": 4,
+  "prerequisites": "None. Students should have completed pre-calculus or equivalent.",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "description": "The first course in the calculus sequence covering limits, continuity, differentiation, and introduction to integration. Students study the concept of a limit, techniques of differentiation including the power rule, product rule, quotient rule, and chain rule, and applications of derivatives including optimization, related rates, and curve sketching. The course introduces the definite integral through Riemann sums and covers the Fundamental Theorem of Calculus. Applications include area under curves, average value, and introductory differential equations. This course is required for CS students as it provides the mathematical foundation for algorithm analysis, machine learning, and scientific computing. Students should have a strong background in algebra and trigonometry. A graphing calculator is required.",
+  "topics": [
+    "Limits and continuity",
+    "Definition of the derivative",
+    "Differentiation rules and techniques",
+    "Applications of derivatives",
+    "Mean Value Theorem",
+    "Curve sketching",
+    "Optimization problems",
+    "Related rates",
+    "Antiderivatives",
+    "Definite integrals and Riemann sums",
+    "Fundamental Theorem of Calculus",
+    "Applications of integration"
+  ],
+  "outcomes": [
+    "Evaluate limits using algebraic and graphical methods",
+    "Compute derivatives using differentiation rules",
+    "Apply derivatives to optimization and related rates problems",
+    "Evaluate definite and indefinite integrals",
+    "Apply the Fundamental Theorem of Calculus",
+    "Model real-world problems using calculus concepts"
+  ]
+}

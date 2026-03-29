@@ -1,0 +1,33 @@
+{
+  "course": "CS306",
+  "title": "Artificial Intelligence",
+  "credits": 3,
+  "prerequisites": "CS301",
+  "corequisites": "None",
+  "terms": [
+    "Spring"
+  ],
+  "description": "Survey of artificial intelligence techniques including search algorithms, knowledge representation, planning, reasoning under uncertainty, and introduction to natural language processing and computer vision. Students study uninformed and informed search (A*, heuristic design), constraint satisfaction problems, game-playing (minimax, alpha-beta pruning), propositional and first-order logic, Bayesian networks, Markov decision processes, and reinforcement learning foundations. The course includes programming projects implementing AI agents for games, planning domains, and probabilistic reasoning. CS301 is required for algorithm design skills essential for implementing search and optimization algorithms. Note: this course is typically offered in Spring semester only.",
+  "topics": [
+    "Intelligent agents and environments",
+    "Uninformed search: BFS, DFS, iterative deepening",
+    "Informed search: A*, heuristics, IDA*",
+    "Constraint satisfaction problems",
+    "Adversarial search: minimax, alpha-beta pruning",
+    "Propositional and first-order logic",
+    "Knowledge representation and inference",
+    "Bayesian networks and probabilistic inference",
+    "Markov Decision Processes",
+    "Reinforcement learning basics",
+    "Natural language processing overview",
+    "Computer vision overview"
+  ],
+  "outcomes": [
+    "Design and implement search algorithms for problem solving",
+    "Formulate problems as constraint satisfaction problems",
+    "Build game-playing agents using adversarial search",
+    "Apply probabilistic reasoning using Bayesian networks",
+    "Understand Markov Decision Processes and reinforcement learning",
+    "Evaluate AI systems in terms of rationality and performance"
+  ]
+}

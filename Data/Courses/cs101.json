@@ -1,0 +1,35 @@
+{
+  "course": "CS101",
+  "title": "Introduction to Programming",
+  "credits": 4,
+  "prerequisites": "None",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "description": "This foundational course introduces students to the principles and practice of computer programming using Python. Students learn to design, write, test, and debug programs that solve real-world problems. The course covers fundamental programming concepts including variables, data types, control structures (conditionals and loops), functions, file I/O, and basic object-oriented programming. Students develop computational thinking skills and learn to decompose complex problems into manageable components. Weekly lab sessions provide hands-on practice with programming exercises of increasing complexity. The course emphasizes good coding practices including documentation, testing, and version control. No prior programming experience is required. Students who have significant programming experience should consider placing into CS102 via the department placement exam.",
+  "topics": [
+    "Variables and data types",
+    "Control structures: if/else, while, for",
+    "Functions and parameter passing",
+    "Lists, dictionaries, and tuples",
+    "File input/output",
+    "Introduction to classes and objects",
+    "Debugging techniques",
+    "Algorithm design basics",
+    "String manipulation",
+    "Error handling with exceptions",
+    "Basic recursion",
+    "Simple sorting algorithms"
+  ],
+  "outcomes": [
+    "Write Python programs to solve computational problems",
+    "Apply control structures and functions to decompose problems",
+    "Use basic data structures to organize information",
+    "Debug programs systematically using print statements and debuggers",
+    "Follow coding conventions and write readable, documented code",
+    "Explain the difference between compile-time and run-time errors"
+  ]
+}

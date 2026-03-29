@@ -1,0 +1,33 @@
+{
+  "course": "CS314",
+  "title": "Big Data Analytics",
+  "credits": 3,
+  "prerequisites": "CS305",
+  "corequisites": "None",
+  "terms": [
+    "Fall"
+  ],
+  "description": "Introduction to big data processing frameworks and analytics techniques for large-scale datasets. Covers Hadoop ecosystem (HDFS, MapReduce, Hive), Apache Spark, stream processing (Kafka, Flink), data warehousing, and large-scale machine learning. Students work with real-world datasets and cloud-based big data platforms. CS305 is the prerequisite for machine learning foundations needed for large-scale analytics and distributed ML algorithms.",
+  "topics": [
+    "Big data characteristics and challenges",
+    "Hadoop ecosystem: HDFS, MapReduce",
+    "Apache Spark: RDDs, DataFrames, SparkSQL",
+    "Stream processing with Kafka and Flink",
+    "Data warehousing and data lakes",
+    "NoSQL databases for big data",
+    "Large-scale machine learning with MLlib",
+    "Data pipeline design",
+    "Data quality and governance",
+    "Visualization for big data",
+    "Cloud-based big data services",
+    "Real-time analytics"
+  ],
+  "outcomes": [
+    "Process large datasets using Hadoop and Spark",
+    "Design data pipelines for batch and stream processing",
+    "Apply machine learning at scale using distributed frameworks",
+    "Query large datasets using SparkSQL and Hive",
+    "Design data warehouse schemas",
+    "Evaluate big data architecture tradeoffs"
+  ]
+}

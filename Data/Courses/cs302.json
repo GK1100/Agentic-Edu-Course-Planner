@@ -1,0 +1,34 @@
+{
+  "course": "CS302",
+  "title": "Database Management Systems",
+  "credits": 3,
+  "prerequisites": "CS201 OR approval from the instructor",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "Comprehensive study of database systems covering relational data model, SQL, database design, normalization, transaction processing, and query optimization. Students learn to design efficient database schemas using ER modeling and normalization theory (up to BCNF), write complex SQL queries including joins, subqueries, and aggregation, and understand the internals of database engines including indexing (B+ trees, hash indexes), query processing, and concurrency control. The course includes a substantial group project involving full database application development. Students need either CS201 (recommended for understanding of data structures used in database internals) or instructor approval for students with equivalent background from other programs.",
+  "topics": [
+    "Entity-Relationship modeling",
+    "Relational model and relational algebra",
+    "SQL: DDL, DML, complex queries",
+    "Normalization: 1NF through BCNF",
+    "Indexing: B+ trees and hash indexes",
+    "Query processing and optimization",
+    "Transaction processing and ACID properties",
+    "Concurrency control and locking",
+    "Recovery and logging",
+    "NoSQL databases overview",
+    "Database application development",
+    "Stored procedures and triggers"
+  ],
+  "outcomes": [
+    "Design normalized database schemas from requirements",
+    "Write complex SQL queries for data retrieval and manipulation",
+    "Explain and apply normalization theory through BCNF",
+    "Understand indexing structures and query optimization",
+    "Implement transaction processing with proper isolation",
+    "Develop a complete database-backed application"
+  ]
+}

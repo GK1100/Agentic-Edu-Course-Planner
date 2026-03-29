@@ -1,0 +1,34 @@
+{
+  "course": "MATH220",
+  "title": "Linear Algebra",
+  "credits": 3,
+  "prerequisites": "MATH120",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "This course covers the fundamentals of linear algebra with applications to computer science and data science. Topics include systems of linear equations, matrix algebra, determinants, vector spaces, linear transformations, eigenvalues and eigenvectors, orthogonality, and least squares. The course emphasizes both computational techniques and theoretical understanding. Applications to computer graphics, machine learning, data compression, and network analysis are highlighted throughout. Linear algebra is essential for students pursuing machine learning (CS305), deep learning (CS322), computer graphics (CS312), and related areas. Prerequisite: MATH120 for foundational mathematical maturity.",
+  "topics": [
+    "Systems of linear equations and Gaussian elimination",
+    "Matrix operations and matrix algebra",
+    "Determinants and their properties",
+    "Vector spaces and subspaces",
+    "Linear independence and basis",
+    "Linear transformations",
+    "Eigenvalues and eigenvectors",
+    "Orthogonality and Gram-Schmidt process",
+    "Least squares approximation",
+    "Singular Value Decomposition introduction",
+    "Applications to computer graphics",
+    "Applications to machine learning"
+  ],
+  "outcomes": [
+    "Solve systems of linear equations using matrix methods",
+    "Perform matrix operations and compute determinants",
+    "Understand and apply vector space concepts",
+    "Compute eigenvalues and eigenvectors",
+    "Apply orthogonality concepts to least squares problems",
+    "Connect linear algebra to applications in CS and data science"
+  ]
+}

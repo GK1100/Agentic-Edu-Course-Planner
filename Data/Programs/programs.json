@@ -1,0 +1,111 @@
+[
+  {
+    "program": "Bachelor of Science in Computer Science",
+    "type": "major",
+    "description": "The Bachelor of Science in Computer Science program prepares students for careers in software development, data science, artificial intelligence, and related computing fields. The program provides a strong foundation in theoretical computer science, practical programming skills, and mathematical reasoning. Students develop expertise through a structured curriculum of core courses, advanced electives, and mathematical foundations. The program requires completion of 120 credit hours including core CS courses, advanced CS electives, mathematics requirements, general education requirements, and free electives. Students must maintain a minimum cumulative GPA of 2.0 and a minimum GPA of 2.5 in CS courses to remain in good standing. A minimum of 60 credit hours must be completed in residence at the university (residency requirement). Students must complete all degree requirements within 6 years of matriculation.",
+    "core_courses": [
+      "CS101",
+      "CS102",
+      "CS201",
+      "CS202",
+      "CS301"
+    ],
+    "advanced_courses": [
+      "CS302",
+      "CS303",
+      "CS304",
+      "CS305",
+      "CS306"
+    ],
+    "math_requirements": [
+      "MATH120",
+      "MATH220",
+      "MATH230"
+    ],
+    "elective_options": [
+      "CS307",
+      "CS308",
+      "CS309",
+      "CS310",
+      "CS311",
+      "CS312",
+      "CS313",
+      "CS314",
+      "CS315",
+      "CS316",
+      "CS317",
+      "CS318",
+      "CS319",
+      "CS320",
+      "CS321",
+      "CS322"
+    ],
+    "electives_required": 3,
+    "credits_required": 120,
+    "cs_credits_minimum": 45,
+    "residency_credits": 60,
+    "minimum_gpa": 2.0,
+    "minimum_cs_gpa": 2.5,
+    "max_credits_per_semester": 18,
+    "notes": [
+      "Students must complete at least 3 elective courses from the CS elective options list.",
+      "A capstone course or senior project is recommended but not required.",
+      "Students may petition to substitute one elective with an approved graduate-level course.",
+      "Transfer students must complete at least 50% of CS coursework at the university."
+    ]
+  },
+  {
+    "program": "Artificial Intelligence Specialization Certificate",
+    "type": "specialization",
+    "description": "The AI Specialization Certificate is available to students enrolled in the BSc Computer Science program who wish to demonstrate focused expertise in artificial intelligence and machine learning. The certificate requires completion of three required courses and two elective courses from the approved list. Students must earn a minimum grade of B in each certificate course. The certificate is noted on the student's transcript upon completion of all requirements and the BSc degree. Students should plan their course sequence carefully as several AI courses have multi-hop prerequisite chains.",
+    "requirements": [
+      "CS301",
+      "CS305",
+      "CS306"
+    ],
+    "electives": [
+      "CS307",
+      "CS308",
+      "CS313",
+      "CS314",
+      "CS320",
+      "CS321",
+      "CS322"
+    ],
+    "electives_required": 2,
+    "minimum_grade": "B",
+    "notes": [
+      "All three required courses must be completed with a grade of B or higher.",
+      "Students must be enrolled in the BSc Computer Science program.",
+      "Certificate is awarded upon completion of BSc degree.",
+      "Recommended course sequence: CS301 → CS305/CS306 → electives."
+    ]
+  },
+  {
+    "program": "Computer Science Minor",
+    "type": "minor",
+    "description": "The Computer Science Minor is designed for students in other majors who wish to gain foundational knowledge in computer science. The minor requires completion of three required courses and two elective courses from the approved list. Students must earn a minimum grade of C in each minor course. The minor provides sufficient background for students to apply programming and computational thinking in their primary field of study. All minor courses must be completed with the standard grading option (not pass/fail).",
+    "requirements": [
+      "CS101",
+      "CS102",
+      "CS201"
+    ],
+    "electives": [
+      "CS202",
+      "CS301",
+      "CS302",
+      "CS304",
+      "CS307",
+      "CS308",
+      "CS311"
+    ],
+    "electives_required": 2,
+    "minimum_grade": "C",
+    "notes": [
+      "All courses must be taken with standard grading (not pass/fail).",
+      "At least 3 of the 5 courses must be completed at the university (not transferred).",
+      "Students must declare the minor before completing their final semester.",
+      "Minor courses may overlap with general education requirements where applicable."
+    ]
+  }
+]

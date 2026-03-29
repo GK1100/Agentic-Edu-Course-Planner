@@ -1,0 +1,34 @@
+{
+  "course": "CS304",
+  "title": "Computer Networks",
+  "credits": 3,
+  "prerequisites": "CS201",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "Introduction to computer networking covering the TCP/IP protocol stack, network architectures, and distributed applications. The course follows a top-down approach starting with application-layer protocols (HTTP, DNS, SMTP) and progressing through transport (TCP, UDP), network (IP, routing), and link layers. Students study socket programming, reliable data transfer, congestion control, routing algorithms, and network security fundamentals. Lab assignments involve implementing network protocols and applications using Python socket programming. The prerequisite CS201 provides the data structures knowledge needed for implementing networking algorithms and protocol state machines.",
+  "topics": [
+    "Network architecture and TCP/IP model",
+    "Application layer: HTTP, DNS, SMTP, FTP",
+    "Socket programming in Python",
+    "Transport layer: TCP, UDP",
+    "Reliable data transfer protocols",
+    "Congestion control",
+    "Network layer: IP addressing and subnetting",
+    "Routing algorithms: link-state, distance-vector",
+    "Data link layer and MAC protocols",
+    "Wireless networking",
+    "Network security: TLS, firewalls",
+    "Software-defined networking introduction"
+  ],
+  "outcomes": [
+    "Explain the TCP/IP protocol stack and encapsulation",
+    "Implement client-server applications using sockets",
+    "Analyze TCP congestion control behavior",
+    "Design IP addressing schemes with subnetting",
+    "Compare routing algorithms and their convergence properties",
+    "Understand network security threats and countermeasures"
+  ]
+}

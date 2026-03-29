@@ -1,0 +1,33 @@
+{
+  "course": "CS310",
+  "title": "Distributed Systems",
+  "credits": 3,
+  "prerequisites": "CS303 AND CS304",
+  "corequisites": "None",
+  "terms": [
+    "Spring"
+  ],
+  "description": "Advanced study of distributed systems covering consistency models, distributed consensus, fault tolerance, and distributed data storage. Topics include clock synchronization, logical clocks, distributed mutual exclusion, consensus protocols (Paxos, Raft), distributed hash tables, MapReduce, and microservices communication patterns. Prerequisites include CS303 (OS concepts for process management and concurrency) and CS304 (networking for distributed communication). Students implement distributed system components and analyze their correctness and performance properties.",
+  "topics": [
+    "Distributed system models and challenges",
+    "Clock synchronization and logical clocks",
+    "Distributed mutual exclusion",
+    "Consensus: Paxos, Raft",
+    "Distributed hash tables",
+    "Replication and consistency models",
+    "Fault tolerance and Byzantine failures",
+    "MapReduce and distributed computing",
+    "CAP theorem",
+    "Distributed transactions",
+    "Microservices and RPC",
+    "Blockchain as distributed system"
+  ],
+  "outcomes": [
+    "Analyze distributed system correctness using formal models",
+    "Implement consensus protocols for distributed agreement",
+    "Design fault-tolerant distributed applications",
+    "Apply consistency models to distributed storage systems",
+    "Implement MapReduce programs for large-scale data processing",
+    "Evaluate tradeoffs in distributed system design (CAP theorem)"
+  ]
+}

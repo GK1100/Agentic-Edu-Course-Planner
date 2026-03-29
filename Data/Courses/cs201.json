@@ -1,0 +1,34 @@
+{
+  "course": "CS201",
+  "title": "Data Structures and Algorithms",
+  "credits": 4,
+  "prerequisites": "CS102 AND MATH120",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "This core course provides in-depth study of fundamental data structures and the algorithms that operate on them. Students learn to analyze algorithm efficiency using Big-O notation and select appropriate data structures for specific applications. Topics include arrays, linked lists, trees (binary, AVL, B-trees), heaps, hash tables, and graphs. Algorithm topics include sorting (mergesort, quicksort, heapsort), searching, graph traversal (BFS, DFS), shortest path algorithms, and introduction to dynamic programming. Students implement major data structures from scratch in Java/C++ and analyze their time and space complexity. Prerequisites include CS102 (for OOP proficiency) and MATH120 (for mathematical maturity needed for algorithm analysis). Weekly problem sets combine implementation with theoretical analysis.",
+  "topics": [
+    "Algorithm analysis and Big-O notation",
+    "Arrays and dynamic arrays",
+    "Linked lists (singly, doubly, circular)",
+    "Stacks and queues (array and linked implementations)",
+    "Binary trees and binary search trees",
+    "Balanced trees: AVL trees and Red-Black trees",
+    "Priority queues and heaps",
+    "Hash tables and collision resolution",
+    "Graph representations and traversals",
+    "Sorting algorithms: mergesort, quicksort, heapsort",
+    "Shortest path: Dijkstra and Bellman-Ford",
+    "Introduction to dynamic programming"
+  ],
+  "outcomes": [
+    "Analyze algorithm time and space complexity using Big-O notation",
+    "Implement and use fundamental data structures",
+    "Select appropriate data structures for given problems",
+    "Implement and compare sorting and searching algorithms",
+    "Apply graph algorithms to solve connectivity and path problems",
+    "Prove correctness of simple algorithms using loop invariants"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "course": "CS305",
+  "title": "Machine Learning",
+  "credits": 3,
+  "prerequisites": "CS301 AND MATH220",
+  "corequisites": "MATH230 (may be taken concurrently)",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "Introduction to machine learning theory and practice covering supervised learning, unsupervised learning, and foundations of deep learning. Students study linear regression, logistic regression, support vector machines, decision trees, random forests, neural networks, k-means clustering, PCA, and model evaluation techniques. The course emphasizes both mathematical foundations and practical implementation using Python (scikit-learn, NumPy, pandas). Prerequisites include CS301 (for algorithmic analysis skills) and MATH220 (linear algebra is essential for understanding ML algorithms). MATH230 (Probability and Statistics) is a co-requisite that may be taken concurrently — the statistical foundations are needed for the second half of the course covering model evaluation, Bayesian methods, and generalization theory.",
+  "topics": [
+    "Supervised vs unsupervised learning",
+    "Linear regression and gradient descent",
+    "Logistic regression and classification",
+    "Support vector machines",
+    "Decision trees and random forests",
+    "Neural networks and backpropagation",
+    "K-means clustering and hierarchical clustering",
+    "Principal Component Analysis (PCA)",
+    "Model evaluation: cross-validation, ROC curves",
+    "Bias-variance tradeoff",
+    "Ensemble methods: bagging, boosting",
+    "Feature engineering and selection"
+  ],
+  "outcomes": [
+    "Implement supervised and unsupervised learning algorithms",
+    "Apply appropriate ML models to different problem types",
+    "Evaluate model performance using proper validation techniques",
+    "Understand the mathematical foundations of core ML algorithms",
+    "Use scikit-learn and pandas for practical ML projects",
+    "Analyze bias-variance tradeoff and combat overfitting"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "course": "CS319",
+  "title": "Introduction to Quantum Computing",
+  "credits": 3,
+  "prerequisites": "CS202 AND MATH220",
+  "corequisites": "None",
+  "terms": [
+    "Spring"
+  ],
+  "description": "Introduction to quantum computing covering qubits, quantum gates, quantum circuits, and quantum algorithms. Students study the mathematical foundations of quantum mechanics relevant to computation, including linear algebra over complex vector spaces, tensor products, and measurement. Key algorithms covered include Deutsch-Jozsa, Grover's search, Shor's factoring algorithm, and quantum error correction. Both CS202 (for formal mathematical reasoning) and MATH220 (linear algebra for quantum state representations) are prerequisites.",
+  "topics": [
+    "Qubits and quantum states",
+    "Quantum gates and circuits",
+    "Quantum measurement",
+    "Quantum entanglement",
+    "Deutsch-Jozsa algorithm",
+    "Grover's search algorithm",
+    "Quantum Fourier transform",
+    "Shor's factoring algorithm",
+    "Quantum error correction",
+    "Quantum key distribution",
+    "Quantum machine learning overview",
+    "Quantum computing platforms (Qiskit)"
+  ],
+  "outcomes": [
+    "Represent quantum states using Dirac notation",
+    "Design quantum circuits using standard gates",
+    "Implement quantum algorithms using Qiskit",
+    "Analyze quantum algorithm complexity",
+    "Understand quantum error correction principles",
+    "Compare quantum and classical computational models"
+  ]
+}

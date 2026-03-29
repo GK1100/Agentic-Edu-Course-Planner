@@ -1,0 +1,33 @@
+{
+  "course": "CS309",
+  "title": "Cloud Computing",
+  "credits": 3,
+  "prerequisites": "CS201",
+  "corequisites": "None",
+  "terms": [
+    "Spring"
+  ],
+  "description": "Introduction to cloud computing architectures, services, and deployment models. Covers IaaS, PaaS, SaaS, virtualization, containerization (Docker, Kubernetes), serverless computing, cloud storage systems, and distributed computing patterns. Students gain hands-on experience with major cloud platforms (AWS/Azure/GCP) through lab exercises deploying and managing cloud applications. Topics include auto-scaling, load balancing, microservices architecture, and cloud security. The prerequisite CS201 provides data structures knowledge needed for understanding distributed data storage and processing systems. This course is typically offered in Spring semester.",
+  "topics": [
+    "Cloud service models: IaaS, PaaS, SaaS",
+    "Virtualization and hypervisors",
+    "Containers and Docker",
+    "Container orchestration with Kubernetes",
+    "Serverless computing (AWS Lambda)",
+    "Cloud storage: S3, Block, Object",
+    "Auto-scaling and load balancing",
+    "Microservices architecture",
+    "Cloud security and IAM",
+    "DevOps practices",
+    "Cost optimization",
+    "Multi-cloud strategies"
+  ],
+  "outcomes": [
+    "Design and deploy applications on cloud platforms",
+    "Containerize applications using Docker",
+    "Orchestrate containers with Kubernetes",
+    "Implement auto-scaling and load balancing",
+    "Apply cloud security best practices",
+    "Evaluate cost and performance of cloud architectures"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "course": "CS307",
+  "title": "Software Engineering",
+  "credits": 3,
+  "prerequisites": "CS201",
+  "corequisites": "None",
+  "terms": [
+    "Fall",
+    "Spring"
+  ],
+  "description": "Study of software engineering principles, methodologies, and practices for developing large-scale software systems. Covers requirements engineering, software architecture and design patterns, agile development (Scrum, Kanban), version control with Git, continuous integration/continuous deployment (CI/CD), testing strategies (unit, integration, system, acceptance), code quality metrics, and project management. Students work in teams on a semester-long software project following agile methodology with regular sprint reviews. The course emphasizes practical skills including code review, refactoring, and technical documentation. Prerequisite: CS201 ensures students have sufficient programming maturity for team-based development.",
+  "topics": [
+    "Software development lifecycle models",
+    "Requirements engineering and user stories",
+    "Software architecture patterns",
+    "Design patterns: observer, factory, strategy, MVC",
+    "Version control with Git and GitHub",
+    "Agile development: Scrum and Kanban",
+    "Testing: unit, integration, system, acceptance",
+    "CI/CD pipelines",
+    "Code quality and refactoring",
+    "Project management and estimation",
+    "Technical documentation",
+    "Ethics in software engineering"
+  ],
+  "outcomes": [
+    "Apply agile development methodology to team projects",
+    "Design software architectures using appropriate patterns",
+    "Write requirements specifications and user stories",
+    "Implement comprehensive testing strategies",
+    "Use version control and CI/CD tools professionally",
+    "Manage software projects with proper estimation and tracking"
+  ]
+}
